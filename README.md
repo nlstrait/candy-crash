@@ -1,8 +1,10 @@
 # Candy Crush
 
-/array2d        the source code for our own 2D array library
-/centralized    the version of this game created before TCP implementation and seperation of the model and view
-/distributed    the most up-to-date version of this game
+/array2d: the source code for our own 2D array library
+
+/centralized: the version of this game created before TCP implementation and seperation of the model and view
+
+/distributed: the most up-to-date version of this game
 
 ## Current Progress:
 
