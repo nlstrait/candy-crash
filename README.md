@@ -1,8 +1,15 @@
-# candy-crash
+# Candy Crush
 
 ## Current Progress:
 
-We are working on seperating the model part and the view part of this application to make them a client and a server respectively in a network application. The view as the server is responsible for passing the initial game instatnce to the model and update the window. The model as the client is responsible for generating all the possible moves and inflict graivty, then pass the updated gameinstacne back to the server.                                                   </br>
+Just finished implementation of TCP to seperate the model and view parts of this application across a network. As the server, the view is responsible for passing the initial game instance to the model and updating the window. As the client, the model  is responsible for firing candies, inflicting gravity, and passing the updated game instance back to the server.
+
+/array2d contains the source code for our own 2D array library
+
+/centralized contains the version of this game created before TCP implementation and seperation of the model and view
+
+/distributed contains the most version of this game
+</br>
 
 [Click here for project description](http://courses.cs.washington.edu/courses/cse333/17wi/hw/hw5/hw5.html)
 
