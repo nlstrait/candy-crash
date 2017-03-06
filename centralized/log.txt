@@ -1,0 +1,2 @@
+1. Talk with JZ about that weird array2d update/get problem
+2. try putting index_pair_arr in view outside of the game state
