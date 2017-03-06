@@ -8,7 +8,7 @@ Just finished implementation of TCP to seperate the model and view parts of this
 
 /centralized contains the version of this game created before TCP implementation and seperation of the model and view
 
-/distributed contains the most version of this game
+/distributed contains the most up-to-date version of this game
 </br>
 
 [Click here for project description](http://courses.cs.washington.edu/courses/cse333/17wi/hw/hw5/hw5.html)
